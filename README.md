@@ -1,16 +1,34 @@
-# Hoju LLC
+# Hi, I'm Ronnie Vu 👋
 
-> Open-source tools, libraries, and utilities built for developers and designers.
+> Founder & CEO @ [Hoju LLC](https://hoju.us) · Full-Stack Web Designer & Developer · Building open-source tools for the modern web.
 
-## Projects
+---
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [esg-badge](https://github.com/hojullc/esg-badge) | Zero-dependency ESG score badge & widget with SVG donut charts | ![Stars](https://img.shields.io/github/stars/hojullc/esg-badge?style=flat-square) |
-| [css-fx](https://github.com/hojullc/css-fx) | Zero-config CSS effects library — hover animations, glassmorphism, neon glow, flip cards | ![Stars](https://img.shields.io/github/stars/hojullc/css-fx?style=flat-square) |
-| [type-fx](https://github.com/hojullc/type-fx) | Lightweight text animation library — typewriter, scramble, word rotation, counters, gradient | ![Stars](https://img.shields.io/github/stars/hojullc/type-fx?style=flat-square) |
+## 🛠 Open Source Libraries
 
-## About
+| Repo | Description | Stack |
+|------|-------------|-------|
+| [hoju-ui](https://github.com/hojullc/hoju-ui) | Lightweight CSS component library — buttons, cards, badges, modals, tabs, toasts. Dark-first. | CSS, JS |
+| [color-fx](https://github.com/hojullc/color-fx) | Color palette generator & CSS theme builder. WCAG contrast, harmonious palettes, zero deps. | JS |
+| [cursor-fx](https://github.com/hojullc/cursor-fx) | Experimental cursor tracking — magnetic snap, trail particles, morph, repel. Zero deps. | JS, Canvas |
+| [svg-morph](https://github.com/hojullc/svg-morph) | Morphing SVG & self-drawing line art. FLIP transitions, path interpolation, draw-on-scroll. | JS, SVG |
+| [webgl-fx](https://github.com/hojullc/webgl-fx) | Real-time 3D WebGL environments — particle clouds, galaxy, wave grid. Mouse-reactive. | JS, Three.js |
+| [scrollytelling](https://github.com/hojullc/scrollytelling) | Scroll-driven 3D timelines & narrative scenes. Waypoints, parallax, animated counters. | JS, CSS |
+| [esg-badge](https://github.com/hojullc/esg-badge) | ESG compliance badge system for websites — Environmental, Social, Governance scoring. | JS, CSS |
 
-[Hoju LLC](https://hoju.us) builds accessible, high-quality web tools.  
-All projects are MIT licensed and open to contributions.
+---
+
+## 🎨 Design Philosophy
+
+I build tools that prioritize **developer experience** — zero dependencies where possible, clean APIs, and dark-mode-first aesthetics. Everything I ship is MIT licensed and CDN-ready.
+
+---
+
+## 🔗 Connect
+
+- 🌐 [hoju.us](https://hoju.us)
+- 💼 [Hoju LLC](https://hoju.us)
+
+---
+
+<sub>All libraries are MIT © Hoju LLC</sub>
