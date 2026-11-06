@@ -1,49 +1,16 @@
-# Hey, I'm Ronnie Vu 👋
+# Hoju LLC
 
-**Founder & CEO @ [Hoju LLC](https://hoju.us)** — web, mobile & accessibility consulting based in Sacramento, CA.
+> Open-source tools, libraries, and utilities built for developers and designers.
 
-I build digital products for everyone — fast, accessible, and built to last. 12+ years working with small businesses, nonprofits, and startups across the country.
+## Projects
 
----
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [esg-badge](https://github.com/hojullc/esg-badge) | Zero-dependency ESG score badge & widget with SVG donut charts | ![Stars](https://img.shields.io/github/stars/hojullc/esg-badge?style=flat-square) |
+| [css-fx](https://github.com/hojullc/css-fx) | Zero-config CSS effects library — hover animations, glassmorphism, neon glow, flip cards | ![Stars](https://img.shields.io/github/stars/hojullc/css-fx?style=flat-square) |
+| [type-fx](https://github.com/hojullc/type-fx) | Lightweight text animation library — typewriter, scramble, word rotation, counters, gradient | ![Stars](https://img.shields.io/github/stars/hojullc/type-fx?style=flat-square) |
 
-## 🚀 What I'm building
+## About
 
-| Project | What it is |
-|---------|-----------|
-| 🛡️ [ScanCompliant](https://scancompliant.com) | SaaS accessibility monitoring |
-| 🏀 [Scoreboard Pro](https://apps.apple.com/app/id496758984) | Native iOS live scoreboard app |
-| ♿ [a11y-checker](https://github.com/hojullc/a11y-checker) | WCAG 2.2 browser scanner |
-| 📺 [livescore-widget](https://github.com/hojullc/livescore-widget) | Embeddable live score widget |
-| 🔧 [wp-a11y-kit](https://github.com/hojullc/wp-a11y-kit) | WordPress accessibility plugin |
-
----
-
-## 🛠 Stack
-
-**Frontend** — HTML, CSS, JavaScript, Rect, V/ue
-**Mobile** — Swift / Objective-C (iOS)
-**Backend** — WordPress, PHP, Node.js
-**Accessibility** — WCAG 2.2, ARIA, screen reader testing
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojullc&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-!/[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hojullc&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Let's connect
-
-- 🌐 [hoju.us](https://hoju.us)
-- 📧 [ronnie@hoju.us](mailto:ronnie@hoju.us)
-- 💼 [LinkedIn](https://linkedin.com/in/toan-vu-bb585611)
-- 📍 Sacramento, CA
-
-> *"Build digital products everyone can use."*
+[Hoju LLC](https://hoju.us) builds accessible, high-quality web tools.  
+All projects are MIT licensed and open to contributions.
